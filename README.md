@@ -14,14 +14,13 @@ We analyzed tissue samples from two independent cohorts of advanced NSCLC patien
 2. Response associated cell types
 3. Gene signature models
 # Repository Contents
-•	scripts/: Contains scripts for processing and analyzing spatial omics data.
-•	models/: Includes the implementation of the LASSO model used for predicting treatment outcomes.
-•	data/: Input datasets (normalized and processed)
-•	README.md: This file.
+1. scripts/: Contains scripts for processing and analyzing spatial omics data.
+2. models/: Includes the implementation of the LASSO model used for predicting treatment outcomes.
+3. data/: Input datasets (normalized and processed)
+4. README.md: This file.
 # Installation
-Prerequisites
-•	R 4.0+
-•	Required R packages: ggplot2, glmnet, survival, survminer, tidyverse, edgeR, pROC
+1. R 4.0+
+2. Required R packages: ggplot2, glmnet, survival, survminer, tidyverse, edgeR, pROC
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 # Citation
