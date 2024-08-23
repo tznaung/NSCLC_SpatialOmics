@@ -24,6 +24,6 @@ We analyzed tissue samples from two independent cohorts of advanced NSCLC patien
 This project is licensed under the MIT License - see the LICENSE file for details.
 # Citation
 Please cite our related research paper if you use or build upon this work.
-Contact
-For questions or issues, please contact Thazin Nwe Aung at thazin.aung@yale.edu OR tznaung@gmail.com.
+# Contact
+For questions or issues, please contact Thazin Nwe Aung at thazin.aung@yale.edu OR tznaung@gmail.com and James Monkman at j.monkman@uq.edu.au.
 
