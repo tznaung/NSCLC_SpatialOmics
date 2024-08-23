@@ -18,8 +18,7 @@ We analyzed tissue samples from two independent cohorts of advanced NSCLC patien
 2. data/: Input datasets (normalized and processed)
 3. README.md: This file.
 # Installation
-1. R 4.0+
-   Required R packages: ggplot2, glmnet, survival, survminer, tidyverse, edgeR, pROC, anndata, umap, ggpubr, RColorBrewer
+1. R 4.0+; equired R packages: ggplot2, glmnet, survival, survminer, tidyverse, edgeR, pROC, anndata, umap, ggpubr, RColorBrewer
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 # Citation
