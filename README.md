@@ -12,7 +12,7 @@ We analyzed tissue samples from two independent cohorts of advanced NSCLC patien
 # Key Finding
 1. Resistance associated cell types
 2. Response associated cell types
-3. Gene signature models
+3. Gene signature models from outcome associated cell types
 # Repository Contents
 1. scripts/: Contains scripts for processing and analyzing spatial omics data.
 2. data/: Input datasets (normalized and processed)
