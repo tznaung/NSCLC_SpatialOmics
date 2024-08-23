@@ -19,6 +19,7 @@ We analyzed tissue samples from two independent cohorts of advanced NSCLC patien
 3. README.md: This file.
 # Installation
 1. R 4.0+; equired R packages: ggplot2, glmnet, survival, survminer, tidyverse, edgeR, pROC, anndata, umap, ggpubr, RColorBrewer
+2. Python 3.8+; required Python packages: matplotlib, scikit-learn, scikit-survival, anndata, umap-learn, plotly, scipy, seaborn, scanpy, numpy.
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 # Citation
